@@ -1,0 +1,22 @@
+{
+    "funds": [
+        {
+            "name": "UTI Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF789F01XA0",
+            "exitload": "0",
+            "amc":"uti",
+            "expenseRatio": "0.21",
+            "type": "growth",
+            "minimumInvestment": "5000.00"
+        },
+        {
+            "name": "UTI Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF789F01WY2",
+            "exitload": "0",
+            "amc":"uti",
+            "expenseRatio": "0.21",
+            "type": "IDCW - Interim",
+            "minimumInvestment": "5000.00"
+        }
+    ]
+}
