@@ -17,6 +17,24 @@
             "expenseRatio": "0.21",
             "type": "IDCW - Interim",
             "minimumInvestment": "5000.00"
+        },
+        {
+            "name": "HDFC Index Nifty 50 Plan",
+            "link": "https://coin.zerodha.com/mf/fund/INF179K01WM1",
+            "exitload": "0.25",
+            "amc":"hdfc",
+            "expenseRatio": "0.2",
+            "type": "Growth",
+            "minimumInvestment": "100.00"
+        },
+        {
+            "name": "ICICI Prudential Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF179K01WM1",
+            "exitload": "0.25",
+            "amc":"hdfc",
+            "expenseRatio": "0.2",
+            "type": "Growth",
+            "minimumInvestment": "100.00"
         }
     ]
 }
