@@ -1,6 +1,105 @@
 {
     "funds": [
         {
+            "name": "Kotak Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF174KA1HB5",
+            "exitload": "0",
+            "amc":"Kotak",
+            "expenseRatio": "0.21",
+            "type": "IDCW - Interim",
+            "minimumInvestment": "100"
+        },
+        {
+            "name": "Kotak Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF174KA1HA7",
+            "exitload": "0",
+            "amc":"Kotak",
+            "expenseRatio": "0.21",
+            "type": "Growth",
+            "minimumInvestment": "100"
+        },
+        {
+            "name": "Franklin India NSE Nifty 50 Index Fund - idcw",
+            "link": "https://coin.zerodha.com/mf/fund/INF090I01GQ8",
+            "exitload": "0",
+            "amc":"Franklin India",
+            "expenseRatio": "0.25",
+            "type": "IDCW - Annual",
+            "minimumInvestment": "0.25"
+        },
+        {
+            "name": "Franklin India NSE Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF090I01GS4",
+            "exitload": "0",
+            "amc":"Franklin India",
+            "expenseRatio": "0.25",
+            "type": "Growth",
+            "minimumInvestment": "0.25"
+        },
+        {
+            "name": "Aditya Birla Sun Life Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF209K01VX5",
+            "exitload": "0",
+            "amc":"Aditya Birla",
+            "expenseRatio": "0.2",
+            "type": "Growth",
+            "minimumInvestment": "100.00"
+        },
+        {
+            "name": "Aditya Birla Sun Life Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF209K01VY3",
+            "exitload": "0",
+            "amc":"Aditya Birla",
+            "expenseRatio": "0.2",
+            "type": "Growth",
+            "minimumInvestment": "100.00"
+        },
+        {
+            "name": "Bandhan Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF194K012A8",
+            "exitload": "0",
+            "amc":"Bandhan",
+            "expenseRatio": "0.1",
+            "type": "Growth",
+            "minimumInvestment": "1000.00"
+        },
+        {
+            "name": "Nippon India Index Fund - Nifty 50 Plan",
+            "link": "https://coin.zerodha.com/mf/fund/INF204K01H10",
+            "exitload": "0.25",
+            "amc":"Nippon",
+            "expenseRatio": "0.25",
+            "type": "IDCW - Annual",
+            "minimumInvestment": "100.00"
+        },
+        {
+            "name": "Nippon India Index Fund - Nifty 50 Plan",
+            "link": "https://coin.zerodha.com/mf/fund/INF204K01H36",
+            "exitload": "0.25",
+            "amc":"Nippon",
+            "expenseRatio": "0.2",
+            "type": "Growth",
+            "minimumInvestment": "100.00"
+        },
+        {
+            "name": "Navi Nifty 50 Index Fund",
+            "link": "https://coin.zerodha.com/mf/fund/INF959L01FP2",
+            "exitload": "0",
+            "amc":"Navi",
+            "expenseRatio": "0.06",
+            "type": "Growth",
+            "minimumInvestment": "10.00"
+        },
+        {
+            "name": "ICICI Prudential Nifty 50 Index Fund - IDCW",
+            "link": "https://coin.zerodha.com/mf/fund/INF109KB1NL1",
+            "exitload": "0",
+            "amc":"ICICI",
+            "expenseRatio": "0.17",
+            "type": "IDCW - Interim",
+            "minimumInvestment": "100.00"
+        },
+        {
             "name": "UTI Nifty 50 Index Fund",
             "link": "https://coin.zerodha.com/mf/fund/INF789F01XA0",
             "exitload": "0",
@@ -29,7 +128,7 @@
         },
         {
             "name": "ICICI Prudential Nifty 50 Index Fund",
-            "link": "https://coin.zerodha.com/mf/fund/INF179K01WM1",
+            "link": "https://coin.zerodha.com/mf/fund/INF109K012M7",
             "exitload": "0.25",
             "amc":"hdfc",
             "expenseRatio": "0.2",
